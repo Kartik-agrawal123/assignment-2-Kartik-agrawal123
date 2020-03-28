@@ -12,7 +12,7 @@ import problem1.mybst.MyBinarySearchTree;
 // use problem1.mybst.MyBinarySearchTree class for creating binary tree
 public class MyMain {
     public static void main(String[] args) {
-        MyBinarySearchTree obj = new MyBinarySearchTree();
+        MyBinarySearchTree obj= new MyBinarySearchTree();
         obj.insert(5);
         obj.insert(10);
         obj.insert(1);
